@@ -17,7 +17,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 - 🏦 I'm a Software Development Engineer working as freelancer.I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💻 I use daily **.js**, **.sh**, **.py**,  **.sql**
+- 💻 I use daily **.js**, **.sh**, **.scss**,  **.sql**
 - 📖 I am currently reading **Fear Of Life** by Alexander Lowen, M.D.
 - 💬 Talk to me about cricket, JS , silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
