@@ -21,7 +21,6 @@
 - 📖 I am currently reading **Fear Of Life** by Alexander Lowen, M.D.
 - 💬 Talk to me about cricket, JS , silicon valley & startups
 - 👯 We can connect to play some games of Chess ♟
-- ⚡ Fun fact: Je connais un peu le français
 
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="Bash" width="55" height="55"/>
