@@ -9,7 +9,7 @@
 <a href="https://wa.me/923455604477" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-haris-922833232/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100006505928202" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
-<h1> </h1>
+
 </p>
 
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
