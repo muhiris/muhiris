@@ -4,15 +4,16 @@
   </a>
 </h1>
 
-<p align="start" >
+<div align="center" >
+<a href="https://wa.me/923455604477" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/muhammad-haris-922833232/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100006505928202" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
 
-<a href="https://wa.me/923455604477" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/whatsapp/whatsapp-tile.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/muhammad-haris-922833232/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
-<a href="https://www.facebook.com/profile.php?id=100006505928202" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/facebook/facebook-official.svg" alt="Muhammad Haris" height="30" width="30" /></a>&nbsp;
+</div>
 
-</p>
+<!-- ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966) -->
 
-![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
+<!-- About ME   -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px" height="45px"> About Me:
 - 🏦 I'm a Software Development Engineer working as freelancer.I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
@@ -40,51 +41,6 @@
  <br>
  <img src="https://activity-graph.herokuapp.com/graph?username=muhiris&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
-<!--START_SECTION:waka-->
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning    55 commits     ███░░░░░░░░░░░░░░░░░░░░░░   15.03% 
-🌆 Daytime    112 commits    ███████░░░░░░░░░░░░░░░░░░   30.6% 
-🌃 Evening    167 commits    ███████████░░░░░░░░░░░░░░   45.63% 
-🌙 Night      32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.74%
-
-```
-**I'm Most Productive on Sunday** 📅 
-
-```text
-Monday       57 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.24% 
-Tuesday      21 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.98% 
-Wednesday    49 commits     ███░░░░░░░░░░░░░░░░░░░░░░   13.96% 
-Thursday     22 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.27% 
-Friday       32 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.12% 
-Saturday     80 commits     █████░░░░░░░░░░░░░░░░░░░░   22.79% 
-Sunday       90 commits     ██████░░░░░░░░░░░░░░░░░░░   25.64%
-
-```
-
-
-**I Mostly Code in JavaScript 💻** 
-
-```text
-JavaScript                       13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
-Shell Script                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-React Native                     9 repos             █████░░░░░░░░░░░░░░░░░░░░   21.95% 
-HTML CSS                         6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-SAAS                             2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.88%
-
-```
-
-
-
-<!--END_SECTION:waka-->
-
-⏳ **Year Progress** { ████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 29.60 % as on ⏰ 19-Apr-2022
-
----
-
-
----
 
 ### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='45px' height="45px"> Here's some humor for you:
 ### <img src="https://readme-jokes.vercel.app/api" height="100%" width="80%" alt="Error fetching resource, Refresh again to view Jokes Card" />
