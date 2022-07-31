@@ -33,12 +33,12 @@
 </p>
 
 ---
-### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='25px' height="45px"> My Github Stats:
-![Muhammad Haris's github stats](https://github-readme-stats.vercel.app/api?username=MuhammadHaris786&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadHaris786&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
-<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=MuhammadHaris786&theme=dark)](https://git.io/streak-stats) -->
+### <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='40px' height="40px" border-radius="3px"> My Github Stats:
+![Muhammad Haris's github stats](https://github-readme-stats.vercel.app/api?username=muhiris&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhiris&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muhiris&theme=dark)](https://git.io/streak-stats) -->
  <br>
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=MuhammadHaris786&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/> -->
+ <img src="https://activity-graph.herokuapp.com/graph?username=muhiris&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
