@@ -1,6 +1,6 @@
 
 <div align="center" >
-<a href="https://wa.me/923455604477" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
+<a href="https://wa.me/93043661446" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/WhatsApp.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/muhammad-haris-922833232/" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/LinkedIN.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
 <a href="https://www.facebook.com/profile.php?id=100006505928202" target="_blank"><img align="center" src="https://github.com/gauravghongde/social-icons/blob/master/PNG/Color/Facebook.png" alt="Muhammad Haris" height="40" width="40" /></a>&nbsp;
 
@@ -14,7 +14,7 @@
 - 🏦 I'm a Software Development Engineer working as freelancer.I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.sh**, **.scss**
-- 📖 I am currently reading **Fear Of Life** by Alexander Lowen, M.D.
+- 📖 I am currently reading **The Art of communicating** by Thich Nhat Hanh.
 - 💬 Talk to me about cricket, JS , silicon valley & startups
 - 👯 We can connect to build something exciting ♟
 
@@ -27,7 +27,3 @@
       <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="45" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/ethereum/ethereum-icon.svg" alt="Solidity" width="45" height="55"/>
 </p>
-
-
-### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='45px' height="45px"> Here's some humor for you:
-### <img src="https://readme-jokes.vercel.app/api" height="100%" width="100%" alt="Error fetching resource, Refresh again to view Jokes Card" />
