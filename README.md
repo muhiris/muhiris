@@ -14,7 +14,7 @@
 - 🏦 I'm a Software Development Engineer working as freelancer.I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 I use daily **.js**, **.sh**, **.scss**
-- 📖 I am currently reading **The Art of communicating** by Thich Nhat Hanh.
+- 📖 I am currently reading **Me and Rumi**.
 - 💬 Talk to me about cricket, JS , silicon valley & startups
 - 👯 We can connect to build something exciting ♟
 
