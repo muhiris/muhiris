@@ -26,4 +26,9 @@
 ├─◈ <a href="https://github.com/muhiris/frontendcollection">Frontend Collection</a>
 │
 └───────────────────────────────▰▰▰
+
 </pre>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhiris&theme=transparent)  &nbsp;&nbsp;&nbsp;
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhiris&theme=transparent)
+
