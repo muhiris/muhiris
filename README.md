@@ -6,7 +6,6 @@
 │
 ├─▣ Muhiris 
 ├─▣ Developer of WGPT and debutils
-├─▣ <a href="https://muhirisdev.netlify.app/">My Resume</a>
 ├─▣ I am mostly available at <a href="https://fiverr.com/ayeshaqur">Fiverr Marketplace</a>
 │
 └───────────────────────────────▰▰▰
