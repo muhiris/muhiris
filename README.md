@@ -13,6 +13,7 @@
 
 ┌──┤ SOCIAL ├─────────▰▰▰
 │
+├─◈ <a href="mailto:muhiris@proton.me">Gmail</a>
 ├─◈ <a href="https://fiverr.com/ayeshaqur">Fiverr</a>
 ├─◈ <a href="https://www.linkedin.com/in/muhiris">LinkedIn</a>
 ├─◈ <a href="https://www.npmjs.com/~muhiris">NPM</a>
