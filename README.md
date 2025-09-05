@@ -11,28 +11,6 @@
 │
 └───────────────────────────────▰▰▰
 
-┌──┤ SOCIAL ├─────────▰▰▰
-│
-├─◈ <a href="mailto:muhiris@proton.me">Gmail</a>
-├─◈ <a href="https://fiverr.com/ayeshaqur">Fiverr</a>
-├─◈ <a href="https://www.linkedin.com/in/muhiris">LinkedIn</a>
-├─◈ <a href="https://www.npmjs.com/~muhiris">NPM</a>
-├─◈ <a href="https://stackoverflow.com/users/17015257/nl-dev">Stackoverflow</a>
-│
-└───────────────────────────────▰▰▰
-
-┌──┤ PROJECTS ├───────▰▰▰
-│
-├─◈ <a href="https://github.com/muhiris/wgpt">WGPT</a>
-├─◈ <a href="https://www.figma.com/community/plugin/1303763617213345977/mockup-mentor">Mockup Mentor</a>
-├─◈ <a href="https://www.npmjs.com/package/free-chatbot">Free Chatbot</a>
-├─◈ <a href="https://github.com/muhiris/mintutils">Mintutils</a>
-├─◈ <a href="https://github.com/muhiris/LinkedIn-AutoComment-Extension">LinkedIn AutoComment Chrome Extension</a>
-├─◈ <a href="https://github.com/muhiris/Behance-Search-Results-Scrapper">Behance Results Scrapper for Embedded Figma Designs</a>
-├─◈ <a href="https://github.com/muhiris/autoconnect-linkedin">Auto Connect LinkedIn</a>
-├─◈ <a href="https://muhiris.netlify.app/">Legacy Portfolio</a>
-│
-└───────────────────────────────▰▰▰
 
 </pre>
 
