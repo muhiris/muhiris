@@ -6,8 +6,9 @@
 │
 ├─▣ Muhammad Haris (Muhiris)
 ├─▣ CS Graduate from COMSATS
-├─▣ DevOps Engineer - AWS, Kubernetes, CI/CD
+├─▣ DevOps Engineer - AWS, Docker, CI/CD
 ├─▣ Developer of WGPT, Mockup Mentor, Mintutils and free-chatbot
+├─▣ Contributer of Tgpt, Jackett and MyFin
 │
 └───────────────────────────────▰▰▰
 
